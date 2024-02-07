@@ -3,14 +3,12 @@
 ## About
 The Weir Common Room (WCR) is the Middle Common Room of the University College, Oxford, representing all the graduate students in the University College. The WCR is also the physical space in the College where graduate students can relax and socialise.
 
-The WCR is finally having its website again since 2019, as a celebration of the end of Covid and the revival of the postgraduate community of the University College, Oxford.
+The website forms part of an ecosystem to bring the college communities together. The WCR celebrates the end of COVID-19 and the revival of the postgraduate community of the University College, Oxford.
 
 ## Contributor
+This website is built by [Samuel Lam](https://samuel-chlam.github.io/newsite/), the 2023/24 WCR External Affairs Officer. The maintanace of this website is led by the [WCR secretary](https://univox-students.github.io/wcr/#/governance).
 
-The website is built by [Samuel Lam](https://samuel-chlam.github.io/newsite/) with love. The website is maintained by the entire [WCR committee](https://univox-students.github.io/wcr/#/governance).
-
-The website is under active development. You are strongly advised to double check with the WCR members.
-
+The website is under active development. You are strongly advised to double check any published information with the WCR members.
 
 
 

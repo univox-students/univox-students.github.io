@@ -21,11 +21,13 @@ extra:
 
 nav:
   - Home: index.md
-  - Vision: vision.md
-  - Frontend Development: 
-    - frontend/index.md
-  - Backend Development: 
-    - backend/index.md
+  - Introduction: 
+    - Student Experience Ecosystem: introduction/ecosystem.md
+    - Structure of the WCR website: introduction/structure.md
+  - Maintenance: 
+    - maintenance/index.md
+  - Development: 
+    - development/index.md
   - Editing the documentation: 
     - editing_the_docs/index.md
 
