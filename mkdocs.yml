@@ -1,0 +1,32 @@
+site_name: WCR Website Documentation
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.path
+    - navigation.footer
+    - navigation.tracking
+
+repo_url: https://github.com/univox-students/wcr
+repo_name: univox-students/wcr
+  
+extra:
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/groups/1233897143993080
+    - icon: fontawesome/brands/mastodon 
+      link: https://univox.social
+
+nav:
+  - Home: index.md
+  - Vision: vision.md
+  - Frontend Development: 
+    - frontend/index.md
+  - Backend Development: 
+    - backend/index.md
+  - Editing the documentation: 
+    - editing_the_docs/index.md
+
+copyright: Copyright &copy; 2024 Weir Common Room, University College, Oxford and Samuel Chun Hei Lam
