@@ -22,8 +22,8 @@ extra:
 nav:
   - Home: index.md
   - Introduction: 
-    - Student Experience Ecosystem: introduction/ecosystem.md
-    - Structure of the WCR website: introduction/structure.md
+    - Overview: introduction/overview.md
+    - IT officer: introduction/it_officer.md
   - Maintenance: 
     - maintenance/index.md
   - Development: 
