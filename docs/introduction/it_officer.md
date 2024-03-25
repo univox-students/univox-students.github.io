@@ -41,7 +41,7 @@ The role description is taken from the [Univ JCR Standing Order](https://www.uni
 - maintain a documentation for the management of the WCR website, (and actively providing IT training to the postgraduate community).
 
 ### Access to the server
-Server access could be granted to President, Secretary and IT Officer.
+Server access could be granted to President, Secretary and IT Officer. More detailed docs would be a way to convince the College IT officer to provide easier access!
 
 ### Handover
 
