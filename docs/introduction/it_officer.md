@@ -3,15 +3,6 @@
 - The website *will* be hosted by a virtual server, maintained by the college. Access of the server could be obtained from the college IT officer.
 - Under the current constitution, the maintanance of the website is led by the secretary. We propose setting up a dedicated committee role for the *technical* maintanance of the WCR website.
 
-## Expected commitment of an IT officer
-- taking the lead to maintain and update the WCR website; 
-- liaise between the WCR and College IT Officers about matters arising from the computing services provided by either the College or University; 
-- ensure the content of the website is accurate and up to date and to promote the usage of the website by the members of the WCR;
-- (work with the College Communication and Development Offices) to ensure that the website complies with the College branding guides.
-- (work with the WCR Students with Disabilities and Accessibility Officer and the College disability officers) to ensure the website is accessible by the members of the WCR;
-- add features requested by the WCR to the website, or work with the WCR to find a compromise that can be implemented should a suggested feature is unfeasible.
-- maintain a documentation for the management of the WCR website.
-
 ## Benefit of having an IT officer?
 - Setting up this post **encourages** IT involvements.
 - Website maintanace could be very technical (e.g. making sure contents are in line with accessibility regulations and branding guidelines), hence imposing extra burden for the secretary who already has a bit of commitments.
@@ -22,7 +13,7 @@
 ## Myth/concerns having an IT officer
 
 ### Huge overlap with the secretary roles. 
-- IT officer is here to help the secretary. 
+- IT officer is here to assist the secretary. 
 - IT officer could focus with the development of features, instead of taking up works that secretary are normally doing.
 
 ### Committee now have to contact with one extra person
@@ -36,3 +27,22 @@
 
 ### It would be difficult to find someone to fill up this position
 - It will be even harder to find someone to manage this website if we do not have the post in the first place.
+- I am happy to host generic website trainings (fun fact: we have a webspace).
+
+## Expected commitment of an IT officer
+The role description is taken from the [Univ JCR Standing Order](https://www.univjcr.com/_files/ugd/8c6179_61a838da185943f9bedc8752d999e18f.pdf) - see Appendix A point 11.
+
+- taking the lead to maintain and update the WCR website;
+- liaise between the WCR and College IT Officers about matters arising from the computing services provided by either the College or University; 
+- ensure the content of the website is accurate and up to date and to promote the usage of the website by the members of the WCR;
+- add features requested by the WCR to the website, or work with the WCR to find a compromise that can be implemented should a suggested feature is unfeasible.
+- (work with the College Communication and Development Offices) to ensure that the website complies with the College branding guides.
+- (work with the WCR Students with Disabilities and Accessibility Officer and the College disability officers) to ensure the website is accessible by the members of the WCR;
+- maintain a documentation for the management of the WCR website, (and actively providing IT training to the postgraduate community).
+
+### Access to the server
+Server access could be granted to President, Secretary and IT Officer.
+
+### Handover
+
+There should be a **one** term handover period between the incumbent and non-incumbent IT Officers, to ensure the non-incumbent officer understands both their role and the inner workings of the website.
